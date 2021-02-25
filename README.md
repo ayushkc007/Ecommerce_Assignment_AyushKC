@@ -1,9 +1,5 @@
 # Ecommerce_Assignment_AyushKC
 
-this is for lab exam 
-
-# Ecommerce_Assignment_Ayush
-
 This is lab for lab exam of ecommerce.
 
 Some info reguarding Python, Django ,SQLite DB
